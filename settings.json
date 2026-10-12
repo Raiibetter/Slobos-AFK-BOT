@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Mochi",
+    "username": "SuperiorBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Saintverg-fD8f.aternos.me",
-    "port": 20138,
+    "ip": "raiitestserver213.mcsh.io",
+    "port": 25565,
     "version": "1.21.11"
   },
   "position": {
@@ -26,13 +26,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": ,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
@@ -86,6 +86,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
